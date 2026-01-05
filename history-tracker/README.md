@@ -276,3 +276,5 @@
 
 ### _2025-12-23 10:45:54_ **[HRMSPayrollUI] Merged PR 396: PR: Remove JQuery 89 files** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/30e12a44b011bdd662822cc052ef5f477dd006b0))
 
+### _2026-01-05 11:06:14_ **[HRMSPayrollUI] Merged PR 404: PR: build v10.1.29** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/b726cd0b72706837ad4e52daf1287e16aa7b4bf0))
+
