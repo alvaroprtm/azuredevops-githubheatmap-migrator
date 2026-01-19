@@ -36,3 +36,5 @@
 
 ### _2026-01-19 11:01:00_ **[HRMSPayrollUI] Merged PR 492: PR: build v10.1.36** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/3618b80e448493e2ffb73a7c23017f4466b5404d))
 
+### _2026-01-19 16:01:00_ **[HRMSPayrollUI] Merged PR 496: PR: Refactor Telerik Report into a React component** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/1136f436ed053fb96ac882bb3eb7f197ae21254c))
+
