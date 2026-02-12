@@ -74,3 +74,5 @@
 
 ### _2026-02-11 12:02:00_ **[HRMSPayrollUI] Merged PR 685: PR: Payslip Report Definition Bug** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/8ced692718247da6a935a9f29afce8db6b7275f4))
 
+### _2026-02-12 16:02:00_ **[HRMSPayrollUI] Merged PR 718: PR: build v10.2.2** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/a3f71391827e19873f6795ee2ef4086dfdaff93e))
+
