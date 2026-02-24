@@ -78,3 +78,5 @@
 
 ### _2026-02-23 17:02:00_ **[HRMSPayrollUI] Merged PR 798: PR: build v10.2.6** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/a501ce05d14d20c76ebcd4b47100d72d98decc96))
 
+### _2026-02-24 17:02:00_ **[Eproc] Merged PR 813: PR: Vendor Performance Evaluation API Integration** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/6fd547063ffae801ca2dd242c8344d562d683e4a))
+
