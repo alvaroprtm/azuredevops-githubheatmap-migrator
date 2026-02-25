@@ -352,3 +352,5 @@
 
 ### _2026-02-24 17:40:07_ **[Eproc] Merged PR 813: PR: Vendor Performance Evaluation API Integration** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/6fd547063ffae801ca2dd242c8344d562d683e4a))
 
+### _2026-02-25 16:51:36_ **[Eproc] Merged PR 829: PR: Reviewer and Detail Page UI Enhancemnet in Vendor Evaluation** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/32bcb09df085e5fafe390d2846db8a5b604ac75c))
+
