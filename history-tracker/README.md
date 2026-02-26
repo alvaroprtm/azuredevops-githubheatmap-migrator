@@ -354,3 +354,5 @@
 
 ### _2026-02-25 16:51:36_ **[Eproc] Merged PR 829: PR: Reviewer and Detail Page UI Enhancemnet in Vendor Evaluation** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/32bcb09df085e5fafe390d2846db8a5b604ac75c))
 
+### _2026-02-26 15:33:20_ **[Eproc] Merged PR 841: PR: Notification Settings on NavBar** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/6cdfb0baf606d4e97bb07688a936f7136edf881a))
+
