@@ -364,3 +364,5 @@
 
 ### _2026-02-27 17:13:33_ **[HRMSPayrollUI] Merged PR 858: PR: build v10.2.11** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/3bc9586bf605c0a3a6274ab57220a3925022125e))
 
+### _2026-02-27 19:05:44_ **[Eproc] Merged PR 860: PR: Integrating Vendor Dashboard API** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/de77622a6ce35fd35900462a1949465df391fb41))
+
