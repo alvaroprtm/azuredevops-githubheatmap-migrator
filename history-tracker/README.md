@@ -120,3 +120,5 @@
 
 ### _2026-03-11 17:03:00_ **[Eproc] Merged PR 954: PR: Contract and Vendor Performance Evaluation** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/6fa83f8ecc8a76da24ee7a1b8bfe134707374a23))
 
+### _2026-03-12 02:03:00_ **[eprocapi] Merged PR 953: feat: Update Vendor Tender Contract Status API** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/eprocapi/commit/ca055dc7915c0130d68c68e39712e47a38a4c326))
+
