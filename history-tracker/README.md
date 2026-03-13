@@ -400,3 +400,5 @@
 
 ### _2026-03-13 17:29:21_ **[eprocapi] Merged PR 976: fix: scoring template table and lines update functionality API** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/eprocapi/commit/f60652dfd7f00f235d97030bb4f58d3139b6a63b))
 
+### _2026-03-13 17:48:21_ **[Eproc] Merged PR 977: feat: Scoring Template Lines Form** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/38fd58d17f5ddd60904ae5c2de58bdc1ddf352af))
+
