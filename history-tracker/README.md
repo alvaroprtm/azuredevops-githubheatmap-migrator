@@ -142,3 +142,5 @@
 
 ### _2026-03-26 19:03:00_ **[HRMSPayrollUI] Merged PR 1033: PR: build v10.2.25** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/d7ddf75b033699d9329c89348715ed7b2ffb7896))
 
+### _2026-03-27 11:03:00_ **[Plato] Merged PR 1040: PR: modifiedfinancialdimension field in Personnel Action Type** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/065dfb2f5e0db48a892ea741ae2ee28dfa34a6a3))
+
