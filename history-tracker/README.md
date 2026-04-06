@@ -434,3 +434,5 @@
 
 ### _2026-04-06 11:06:43_ **[HRMSPayrollUI] Merged PR 1117: fix: reference error in worker action detail #3783** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/edf776b92c1d0cbbd67e0540cf606ee29b98ae80))
 
+### _2026-04-06 17:24:58_ **[HRMSPayrollUI] Merged PR 1118: PR: build v10.2.36** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/a59b9b85d73cb5f1d96de76ed55621acb57e17eb))
+
