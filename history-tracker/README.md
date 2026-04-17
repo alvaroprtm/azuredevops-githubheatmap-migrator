@@ -456,3 +456,5 @@
 
 ### _2026-04-16 16:08:10_ **[Plato] Merged PR 1261: feat: New API for Overtime Classification Form #3380** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/8a884dbfafc7275230c30916418120ac0cba3864))
 
+### _2026-04-17 14:20:04_ **[Plato] Merged PR 1275: feat: OTFormType in tmotrequest Insert Payload #3380** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/b0a9f0a91e2239861e74179e8c4431eefc182788))
+
