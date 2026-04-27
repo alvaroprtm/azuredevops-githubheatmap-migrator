@@ -474,3 +474,5 @@
 
 ### _2026-04-23 21:13:49_ **[HRMSPayrollUI] Merged PR 1386: PR: build v10.3.7** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/a17dddfd0317619b307c6e18c7635a3ced091888))
 
+### _2026-04-27 11:45:05_ **[HRMSPayrollUI] Merged PR 1398: PR: Fix Cherry Picking Issues** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/fbc19d384e33f4085142107acb44e30f06e8e4b7))
+
