@@ -488,3 +488,5 @@
 
 ### _2026-05-17 15:56:40_ **[Plato] Merged PR 1492: PR: Update DayType on OT Request Approval #3864** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/6df5f8813ec0aaa48cd7df8ba2e4450530a17e04))
 
+### _2026-05-18 10:07:22_ **[HRMSPayrollUI] Merged PR 1498: build v11.0.12** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/44a2169853a0f316dad8e0067dc32b0a53915aec))
+
