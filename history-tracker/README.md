@@ -494,3 +494,5 @@
 
 ### _2026-05-18 18:15:48_ **[HRMSPayrollUI] Merged PR 1503: PR: build v11.0.14** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/9b70535abf9018136429e6c39368e1b824484bf9))
 
+### _2026-05-19 14:51:49_ **[Plato] Merged PR 1504: fix: UpdateWorkerAttendanceTransOnApproval and duplicate records in GetWFAssignedToMe** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/f2c141109ba0e48bb62b1bb630e3a57de3950e23))
+
