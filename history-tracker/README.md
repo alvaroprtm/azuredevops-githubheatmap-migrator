@@ -498,3 +498,5 @@
 
 ### _2026-05-20 18:03:09_ **[HRMSPayrollUI] Merged PR 1516: PR: build v11.0.19** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/580d4ddd34f2a105a1828102c990f36f34a1e848))
 
+### _2026-05-21 11:02:08_ **[Plato] Merged PR 1521: fix: ExportAttachmentTrxExp 'Index was outside the bounds of the array'** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/dd15044d1f2952d7c8be99e06139b1e9c5863177))
+
