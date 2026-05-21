@@ -500,3 +500,5 @@
 
 ### _2026-05-21 11:02:08_ **[Plato] Merged PR 1521: fix: ExportAttachmentTrxExp 'Index was outside the bounds of the array'** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/dd15044d1f2952d7c8be99e06139b1e9c5863177))
 
+### _2026-05-21 18:07:17_ **[HRMSPayrollUI] Merged PR 1526: feat: build v11.0.22** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/823ff9f4ee337652533547b221fc4dfb1f7f8799))
+
