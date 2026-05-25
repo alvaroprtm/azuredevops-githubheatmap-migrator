@@ -504,3 +504,5 @@
 
 ### _2026-05-22 16:29:45_ **[HRMSPayrollUI] Merged PR 1529: PR: build v11.0.23** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/1eec01c774535cbf7032bc90ffa39223efdfc281))
 
+### _2026-05-25 15:32:58_ **[Plato] Merged PR 1530: feat: Reprocess attendance transaction by hitting GenerateWoowtimeAbsence** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/ff326258d97139dfcc5b337d604d80f05f3848d1))
+
