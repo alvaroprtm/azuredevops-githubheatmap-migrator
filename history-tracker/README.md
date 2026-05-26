@@ -510,3 +510,5 @@
 
 ### _2026-05-26 12:00:19_ **[HRMSPayrollUI] Merged PR 1549: PR: build v11.0.27** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/e6c439787da1005a33025acfdfc74cef920f371b))
 
+### _2026-05-27 01:06:47_ **[Plato] Merged PR 1551: feat: update schedule handling and bulk request validations in overtimebulkrequestmanager** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/460d786cfba1febb943bc61a6f39cd33d7cfa8ad))
+
