@@ -526,3 +526,5 @@
 
 ### _2026-06-02 13:45:23_ **[HRMSPayrollUI] Merged PR 1568: PR: build v11.1.6** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/218cc657615ca25a1aa68ade941f1d6f6f7d6d43))
 
+### _2026-06-02 16:17:42_ **[Plato] Merged PR 1571: fix: register contract mapping issue & attendance correction approval** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/a4b472772554185f1aac583bec7168f64256c796))
+
