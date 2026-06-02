@@ -250,3 +250,5 @@
 
 ### _2026-05-29 20:05:00_ **[Plato] Merged PR 1561: fix: attendance correction approval workflow** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/29a2ea24293e8436e0dfd36f71a485570e2f8b2b))
 
+### _2026-06-02 11:06:00_ **[Plato] Merged PR 1565: fix: report API registration error** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/2ac2fa10273a813b15e6e933d6c1d303301d8918))
+
