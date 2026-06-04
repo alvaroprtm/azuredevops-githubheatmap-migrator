@@ -260,3 +260,5 @@
 
 ### _2026-06-04 11:06:00_ **[Plato] Merged PR 1593: fix; Report API Errors** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/ef05dc3826d7cc1a8dc22008d6fc3175b368744a))
 
+### _2026-06-04 15:06:00_ **[Plato] Merged PR 1595: Fix InsertUpdateAbsenceCorrection API and Dominos UAT Features** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/67e37a5c76551630f804abc3e5dcdf65d4bdfda7))
+
