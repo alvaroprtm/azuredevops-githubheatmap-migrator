@@ -266,3 +266,5 @@
 
 ### _2026-06-09 19:06:00_ **[Plato] Merged PR 1628: fix: offboarding termination and last day work date filter to 0** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/b556efddaccea3d883177ba15068a8fb5f489d43))
 
+### _2026-06-11 11:06:00_ **[Plato] Merged PR 1632: PR: backfill worker and workerdatahistory on absence correction lines #3888** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/165877e862a73738ef226a29f1a2de5e1aead327))
+
