@@ -1,0 +1,50 @@
+name: Sync commits with azure devops
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "31 0 * * *" # Runs every day at 00:31 UTC
+
+# MANDATORY: Grants the built-in GITHUB_TOKEN permission to push updates
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout this single repository
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 
+
+      # 2. Setup Node.js environment
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+
+      # 3. Configure Git Identity using your secrets
+      - name: 🔧 Update git configs
+        run: |
+          git config --global user.email "${{ secrets.USER_EMAIL }}"
+          git config --global user.name "${{ secrets.USER_NAME }}"
+
+      # 4. Install Node Dependencies
+      - name: ⚙ Install node dependencies
+        run: npm install
+
+      # 5. Run the Sync Script (Will generate commits locally on the runner machine)
+      - name: 🚀 Sync with azure
+        run: node script.js
+        env:
+          PAT: ${{ secrets.PAT }}
+          ORG: ${{ secrets.ORG }}
+          DAYS_LOOKUP: ${{ secrets.DAYS_LOOKUP }}
+          AZURE_NAME: ${{ secrets.AZURE_NAME }}
+          COMMITS_FOLDER_PATH: "./history-tracker"
+
+      # 6. Push the generated commits securely using the runner's access
+      - name: 📤 Push Changes to GitHub
+        run: |
+          git push origin HEAD:main
